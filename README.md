@@ -3,7 +3,7 @@
 
 ### 😃 General Info:
 
-➣ Hey, I'm DaiSwap, I'm studying my Btech in Mathematics & Computing. A lead-AI-dev of the [Aeronyx Drone Team](https://github.com/users/DaiSwap/projects/2). I enjoy working with latest technology & trends & STEM. On GitHub I have been working on projects ranging from image processing techniques to AI-ML. In my free time I swim, read books [My goodreads](https://www.goodreads.com/user/show/137753897-pranav-venkatesh).
+➣ Hey, I'm DaiSwap, I'm studying my Btech in Mathematics & Computing. A lead-AI-dev of the [Aeronyx Drone Team](https://github.com/users/DaiSwap/projects/2). I enjoy working with latest technology & trends & STEM. On GitHub I have been working on projects ranging from image processing techniques to AI-ML. In my free time I swim, read books, a professional badminton player and a loyal stake user.
 
 ➣ I work with Python & SQL for the most part, but I know how to use Java, as well as various dev tools & cloud/databases. I like to use frameworks/libraries including TensorFlow, PyTorch, Keras, OpenCV, Matplotlib, pytesseract, Pandas, NumPy.
 
@@ -13,7 +13,7 @@
 
 ➣ You can contact me at: `19644pranavvenkatesh@gmail.com`, my [Discord](https://discord.com/users/735911229947904100), or my [Twitter](https://twitter.com/DaiSwap) 
 
-
+➣ Check out my [Blogs](https://daiswap.hashnode.dev) , [latest reads](https://www.goodreads.com/user/show/137753897-pranav-venkatesh).
 <!--➣ **You can view my old projects at [DaiSwap-Archives](https://github.com/DaiSwap-archives)!**-->
 
 ---
