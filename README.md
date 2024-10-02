@@ -63,7 +63,7 @@
 
 ### 💻 Coding Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,matlab,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,r,matlab,arduino)](https://skillicons.dev)
 
 ### 💻 Databases:
 
