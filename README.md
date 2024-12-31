@@ -81,11 +81,11 @@
 <a target="_blank" href="https://us.ovhcloud.com/">
 	<img align="left" title="OVH" alt="OVH" align="center" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/ovh-3629559-3032342.png">
 </a-->
-[![My Skills](https://skillicons.dev/icons?i=powerbi,git,bash,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=powerBI,git,bash,neovim)](https://skillicons.dev)
 
 ### 💻 Frontend & Backend dev:
 
-[![My Skills](https://skillicons.dev/icons?i=figma,djang)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,django)](https://skillicons.dev)
 
 ### 💻 Devops&Cloud:
 
