@@ -13,7 +13,7 @@
 
 ➣ You can contact me at: `19644pranavvenkatesh@gmail.com`, my [Discord](https://discord.com/users/735911229947904100), or my [Twitter](https://twitter.com/DaiSwap) 
 
-➣ Check out my [My website](https://daiswap.is-a.dev/), [My Blogs](https://daiswap.hashnode.dev) , [latest reads](https://www.goodreads.com/user/show/137753897-pranav-venkatesh).
+➣ Check out my [My website](https://daiswap.netlify.app/), [My Blogs](https://daiswap.hashnode.dev) , [latest reads](https://www.goodreads.com/user/show/137753897-pranav-venkatesh).
 <!--➣ **You can view my old projects at [DaiSwap-Archives](https://github.com/DaiSwap-archives)!**-->
 
 ---
