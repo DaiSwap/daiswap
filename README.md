@@ -1,15 +1,13 @@
 <!--## Hi there 👋-->
-<h1 align="center" height="200"> Hi, I'm DAISWAP! 👋</h1>
+<h1 align="center" height="200"> DAISWAP HERE</h1>
 
-### 😃 General Info:
+### My intro:
 
-➣ Hey, I'm DaiSwap, I'm studying my Btech in Mathematics & Computing. A lead-AI-dev of the [Aeronyx Drone Team](https://github.com/users/DaiSwap/projects/2). I enjoy working with latest technology & trends & STEM. On GitHub I have been working on projects ranging from image processing techniques to AI-ML. In my free time I swim, read books, a professional badminton player and a loyal stake user.
+➣I'm doing my Btech in Mathematics & Computing. A lead-AI-dev of the [Aeronyx Drone Team](https://github.com/users/DaiSwap/projects/2). I enjoy working with latest technology & trends & STEM. On GitHub I have been working on projects ranging from image processing techniques to AI-ML. In my free time I swim, read books, a professional badminton player and a loyal stake user.
 
-➣ I work with Python & SQL for the most part, but I know how to use Java, as well as various dev tools & cloud/databases. I like to use frameworks/libraries including TensorFlow, PyTorch, Keras, OpenCV, Matplotlib, pytesseract, Pandas, NumPy.
+➣ I have hands-on experience working with multiple programming languages and frameworks including Python, Java, and TensorFlow. I’ve contributed to diverse projects ranging from autonomous drone navigation to CV-driven image processing systems to full fledged automatic alert systems to blockchain node traversal for multiple coins and nfts.
 
-➣ I have hands-on experience working with multiple programming languages and frameworks including Python, Java, and TensorFlow. I’ve contributed to diverse projects ranging from autonomous drone navigation to CV-driven image processing systems.
-
-➣ In addition to my academic pursuits, I’ve held positions as a Cloud Support Engineer and Research Intern, honing my skills in cloud services and image processing techniques.
+➣ In addition to my academic pursuits, I’ve held positions as a Cloud Support Engineer and Research Intern, honing my skills in cloud services and image processing techniques. Currently an analyst intern at [skit.ai](https://skit.ai/) .
 
 ➣ You can contact me at: `19644pranavvenkatesh@gmail.com`, my [Discord](https://discord.com/users/735911229947904100), or my [Twitter](https://twitter.com/DaiSwap) 
 
@@ -63,11 +61,11 @@
 
 ### 💻 Coding Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,r,matlab,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,matlab,arduino,go,bash,raspberrypi,solidity)](https://skillicons.dev)
 
-### 💻 Databases:
+### 💻 Data dev:
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=grafana,mysql,postgres,mongodb)](https://skillicons.dev)
 
 ### 💻 Tools:
 <!--a target="_blank" href="https://cloudflare.com">
@@ -81,11 +79,11 @@
 <a target="_blank" href="https://us.ovhcloud.com/">
 	<img align="left" title="OVH" alt="OVH" align="center" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/ovh-3629559-3032342.png">
 </a-->
-[![My Skills](https://skillicons.dev/icons?i=powerBI,git,bash,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=powerBI,git,neovim)](https://skillicons.dev)
 
-### 💻 Frontend & Backend dev:
+### 💻 dev:
 
-[![My Skills](https://skillicons.dev/icons?i=figma,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,django,flask)](https://skillicons.dev)
 
 ### 💻 Devops&Cloud:
 
@@ -97,7 +95,7 @@
 
 ### 💻 Documentation:
 
-[![My Skills](https://skillicons.dev/icons?i=latex,notion,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab,replit,latex,notion)](https://skillicons.dev)
 
 </details>
 
